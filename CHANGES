@@ -1,6 +1,8 @@
 Changes for GappX::NoticeBox
 
 {{$NEXT}}
+
+0.200     2012-10-03 14:41:29
 - using Dist::Zilla
 - updated example
 
